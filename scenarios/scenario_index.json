@@ -1,0 +1,7 @@
+{
+   "static": {
+      "scenarios": [
+         "file(static/terrain/salt_rock_vein)"
+      ]
+   }
+}

@@ -1,0 +1,95 @@
+{
+   "loadouts": {
+      "fruit_for_days": {
+         "ordinal": 0.001,
+         "alias": "box_o_vox_fauna_flora:data:loadouts:fruit_for_days",
+         "display_name": "i18n(box_o_vox_fauna_flora:data.loadouts.fruit_for_days.display_name)",
+         "description": "i18n(box_o_vox_fauna_flora:data.loadouts.fruit_for_days.description)",
+         "tooltip": "i18n(box_o_vox_fauna_flora:data.loadouts.fruit_for_days.tooltip)",
+         "splash": "file(images/fruit_for_days/splash.png)",
+         "seal": "file(images/fruit_for_days/seal.png)",
+         "content": {
+            "herbalist": {
+               "ordinal": 1,
+               "display_name": "i18n(box_o_vox_fauna_flora:jobs.herbalist.herbalist_description.display_name)",
+               "type": "entity",
+               "uri": "stonehearth:herbalist:talisman",
+               "icon": "file(images/items/herbalist_staff.png)",
+               "amount": 1
+            },
+            "apple": {
+               "ordinal": 2,
+               "display_name": "i18n(box_o_vox_fauna_flora:entities.food.apple.display_name)",
+               "type": "entity",
+               "uri": "box_o_vox_fauna_flora:entities:food:apple:apple",
+               "icon": "file(images/items/apple.png)",
+               "amount": 5
+            },
+            "apple_sapling": {
+               "ordinal": 3,
+               "display_name": "i18n(box_o_vox_fauna_flora:entities.trees.apple_tree.loadout.sapling_apple_tree.display_name)",
+               "type": "entity",
+               "uri": "box_o_vox_fauna_flora:entities:trees:apple:sapling",
+               "icon": "file(images/items/sapling_apple_tree.png)",
+               "amount": 1
+            },
+            "banana": {
+               "ordinal": 4,
+               "display_name": "i18n(box_o_vox_fauna_flora:entities.food.banana.display_name)",
+               "type": "entity",
+               "uri": "box_o_vox_fauna_flora:entities:food:banana:banana",
+               "icon": "file(images/items/banana.png)",
+               "amount": 5
+            },
+            "banana_sapling": {
+               "ordinal": 5,
+               "display_name": "i18n(box_o_vox_fauna_flora:entities.trees.banana_tree.loadout.sapling_banana_tree.display_name)",
+               "type": "entity",
+               "uri": "box_o_vox_fauna_flora:entities:trees:banana:sapling",
+               "icon": "file(images/items/sapling_banana_tree.png)",
+               "amount": 1
+            },
+            "lime": {
+               "ordinal": 6,
+               "display_name": "i18n(box_o_vox_fauna_flora:entities.food.lime.display_name)",
+               "type": "entity",
+               "uri": "box_o_vox_fauna_flora:entities:food:lime:lime",
+               "icon": "file(images/items/lime.png)",
+               "amount": 5
+            },
+            "lime_sapling": {
+               "ordinal": 7,
+               "display_name": "i18n(box_o_vox_fauna_flora:entities.trees.lime_tree.loadout.sapling_lime_tree.display_name)",
+               "type": "entity",
+               "uri": "box_o_vox_fauna_flora:entities:trees:lime:sapling",
+               "icon": "file(images/items/sapling_apple_tree.png)",
+               "amount": 1
+            },
+            "orange": {
+               "ordinal": 8,
+               "display_name": "i18n(box_o_vox_fauna_flora:entities.food.orange.display_name)",
+               "type": "entity",
+               "uri": "box_o_vox_fauna_flora:entities:food:orange:orange",
+               "icon": "file(images/items/orange.png)",
+               "amount": 5
+            },
+            "orange_sapling": {
+               "ordinal": 9,
+               "display_name": "i18n(box_o_vox_fauna_flora:entities.trees.orange_tree.loadout.sapling_orange_tree.display_name)",
+               "type": "entity",
+               "uri": "box_o_vox_fauna_flora:entities:trees:orange:sapling",
+               "icon": "file(images/items/sapling_apple_tree.png)",
+               "amount": 1
+            },
+            "gold": {
+               "ordinal": 10,
+               "display_name": "i18n(stonehearth:data.loadouts.items.gold)",
+               "type": "gold",
+               "icon": "file(images/items/gold.png)",
+               "uri": "stonehearth:loot:gold",
+               "amount": 10
+            }
+         }
+      }
+   }
+}

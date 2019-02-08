@@ -1,0 +1,24 @@
+{
+   "crops_by_kingdom": {
+      "northern_alliance:kingdoms:northern_alliance": {
+         "potato": true,
+         "tomato": true,
+         "strawberry": true
+      },
+      "stonehearth:kingdoms:ascendancy": {
+         "potato": true,
+         "tomato": true,
+         "strawberry": true
+      },
+      "rayyas_children:kingdoms:rayyas_children": {
+         "potato": true,
+         "tomato": true,
+         "strawberry": true
+      },
+      "nordlingmod:kingdoms:nordlings": {
+         "potato": true,
+         "tomato": true,
+         "strawberry": true
+      }
+   }
+}
