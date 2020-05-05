@@ -122,10 +122,14 @@
 
       "stonehearth/data/resource_constants.json": "file(data/resource_constants.json)",
 
-      "stonehearth/jobs/shepherd/shepherd_pasture/shepherd_pasture.json": "file(jobs/shepherd/shepherd_pasture/shepherd_pasture.json)"
+      "stonehearth/jobs/shepherd/shepherd_pasture/shepherd_pasture.json": "file(jobs/shepherd/shepherd_pasture/shepherd_pasture.json)",
+
+      "box_o_vox_fauna_flora/jobs/cook/recipes/recipes.json": "stonehearth_ace/box_o_vox_fauna_flora/cook/recipes/ace_recipes.json"
 
    },
-   "overrides": {},
+   "overrides": {
+      "stonehearth_ace/box_o_vox_fauna_flora/cook/recipes/ace_recipes.json": "file(jobs/cook/recipes/ace_recipes.json)"
+   },
    "controllers": {},
    "components": {},
    "ui": {}
